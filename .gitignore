@@ -1,0 +1,11 @@
+env/
+data/_raw/*
+data/interim/*
+data/processed/*
+!data/_raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+tmp/*
+!tmp/.gitkeep
+.ipynb_checkpoints
+__pycache__
