@@ -2,3 +2,6 @@ jupyterlab==4.0.4
 pandas==2.0.3
 pympi-ling==1.70.2
 gdown==4.7.1
+datasets==2.14.4
+soundfile==0.12.1
+librosa==0.10.0.post2
